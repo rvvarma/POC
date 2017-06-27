@@ -1,0 +1,16 @@
+{
+  "name": "sample-express-integration-myob",
+  "version": "1.0.0",
+  "description": "sample Nodejs Express Application with Myob Integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies" : {
+    "express": "*",
+    "request": "*",
+    "body-parser": "*"
+  }
+}
